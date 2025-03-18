@@ -3,3 +3,6 @@ requirements.txt
 *.pt
 *.ckpt
 *.pt
+DetectNano/
+DetectNano/
+__pycache__/
