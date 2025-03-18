@@ -10,3 +10,5 @@ detectNano/
 __pycache__/
 *.dylib
 *.so
+DetectNano/
+__pycache__/
