@@ -12,7 +12,7 @@ Use is permitted for **non-commercial** purposes only. Any reproduction or redis
 - 🌍 **Application available on Hugging Face (coming soon).**  
 
 🔗 **Official Citation:** [Zenodo Link](https://zenodo.org/records/14995364) )  
-📧 **Contact:** [[[Your Email or LinkedIn](https://www.linkedin.com/in/khalid-ferji-173819222/)](https://www.linkedin.com/in/khalid-ferji-173819222/)]  
+📧 **Contact:** [[[Your Email or LinkedIn](https://www.linkedin.com/in/khalid-ferji-173819222/)]
 
 ---
 💡 *Contributions are welcome, but any modifications must be validated by the original author.*
