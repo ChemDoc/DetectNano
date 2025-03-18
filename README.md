@@ -1,4 +1,4 @@
-# DetectNano - Nanostructure Detection App  
+# DetectNano - Nanostructure Detection  
 🚀 **Developed by [Khalid FERJI]** | 📅 Created in [ March 9, 2025 ]  
 
 DetectNano is an advanced application for the detection of nanostructures, optimized for fast and precise analysis.
