@@ -6,3 +6,7 @@ requirements.txt
 DetectNano/
 DetectNano/
 __pycache__/
+detectNano/
+__pycache__/
+*.dylib
+*.so
