@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "DetectNano"
+message: "If you use this software, please cite it using the DOI below."
+doi: "https://doi.org/10.5281/zenodo.14995364"
+authors:
+  - name: "Khalid FERJI"
+    affiliation: "LCPM - Université de lorraine"
+license: "CC-BY-NC-4.0"
