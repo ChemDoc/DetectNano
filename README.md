@@ -9,7 +9,7 @@ Use is permitted for **non-commercial** purposes only. Any reproduction or redis
 
 ## 📌 About the Project  
 - 📌 **Original Release Date:** [ March 9, 2025 ]  
-- 🌍 **Application available on Hugging Face (coming soon).**  
+- 🌍 **Application available on Hugging Face ([https://huggingface.co/spaces/FERJI/DetectNano]).**  
 
 🔗 **Official Citation:** [Zenodo Link](https://zenodo.org/records/14995364) )  
 📧 **Contact:** [[[Your Email or LinkedIn](https://www.linkedin.com/in/khalid-ferji-173819222/)]
